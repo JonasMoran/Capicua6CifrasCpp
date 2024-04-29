@@ -17,7 +17,10 @@ int main()
         }
     }
     cout << "-------" << endl;
-    cout << "VM24042 Jonás Eduardo Villalobos Morán" << endl;
+    cout << "VM24042 JonÃ¡s Eduardo Villalobos MorÃ¡n" << endl;
+    // Comentario para un "cambio"
+    cout << "HotFix -1 Cambio 28/4/2024" << endl;
     system("pause");
     return 0;
+    
 }
